@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{29119}
+Software and systems engineering -- software testing part 1:concepts and
+  definitions.
+\newblock {\em ISO/IEC/IEEE 29119-1:2013(E)}, pages 1--64, 2013.
+
+\bibitem{Emelie10}
+E.~Engstr{\"{o}}m, P.~Runeson, and M.~Skoglund.
+\newblock A systematic review on regression test selection techniques.
+\newblock {\em Information and Software Technology}, 52(1):14 — 30, 2010.
+
+\bibitem{Graves01}
+T.~L. Graves, M.~J. Harrold, J.-M. Kim, A.~Porter, and G.~Rothermel.
+\newblock An empirical study of regression test selection techniques.
+\newblock {\em ACM Transactions on Software Engineering Methodology},
+  10(2):184--208, 2001.
+
+\bibitem{Harrold99}
+M.~J. Harrold.
+\newblock Testing evolving software.
+\newblock {\em Journal of Systems and Software}, 47(2-3):173--181, 1999.
+
+\bibitem{Rothermel96}
+G.~Rothermel and M.~J. Harrold.
+\newblock Analyzing regression test selection techniques.
+\newblock {\em IEEE Transactions on Software Engineering}, 22(8):529--551,
+  1996.
+
+\bibitem{Yoo12}
+S.~Yoo and M.~Harman.
+\newblock Regression testing minimization, selection and prioritization: A
+  survey.
+\newblock {\em Software Testing, Verification and Reliability}, 22(2):67--120,
+  2012.
+
+\end{thebibliography}
