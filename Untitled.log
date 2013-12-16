@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.18)  5 DEC 2013 13:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.18)  11 DEC 2013 21:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -219,26 +219,26 @@ Package pdftex.def Info: agile_incr.pdf used on input line 23.
  [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./agile
-_incr.pdf>] (./Untitled.bbl [2]
+_incr.pdf>] [2] (./Untitled.bbl
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
 ) [3] (./Untitled.aux) ) 
 Here is how much of TeX's memory you used:
- 2273 strings out of 493315
- 31934 string characters out of 6137903
- 95712 words of memory out of 5000000
- 5704 multiletter control sequences out of 15000+600000
+ 2275 strings out of 493315
+ 31948 string characters out of 6137903
+ 96718 words of memory out of 5000000
+ 5706 multiletter control sequences out of 15000+600000
  9835 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,6n,26p,1590b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,26p,1597b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti10.pfb>
-Output written on Untitled.pdf (3 pages, 90556 bytes).
+Output written on Untitled.pdf (3 pages, 93297 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream

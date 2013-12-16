@@ -21,6 +21,11 @@ M.~J. Harrold.
 \newblock Testing evolving software.
 \newblock {\em Journal of Systems and Software}, 47(2-3):173--181, 1999.
 
+\bibitem{Orso04}
+A.~Orso, N.~Shi, and M.~J. Harrold.
+\newblock Scaling regression testing to large software systems.
+\newblock {\em SIGSOFT Software Engineering Notes}, 29(6):241--251, 2004.
+
 \bibitem{Rothermel96}
 G.~Rothermel and M.~J. Harrold.
 \newblock Analyzing regression test selection techniques.
@@ -33,5 +38,12 @@ S.~Yoo and M.~Harman.
   survey.
 \newblock {\em Software Testing, Verification and Reliability}, 22(2):67--120,
   2012.
+
+\bibitem{Yu12}
+L.~Yu, C.~Liu, and Y.~Zhang.
+\newblock A multidimensional classification of safe regression test selection
+  techniques.
+\newblock In {\em Proceedings of the 2012 International Conference on Systems
+  and Informatics (ICSAI'12)}, 2012.
 
 \end{thebibliography}
