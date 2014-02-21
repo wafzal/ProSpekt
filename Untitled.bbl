@@ -1,14 +1,35 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{29119}
 Software and systems engineering -- software testing part 1:concepts and
   definitions.
 \newblock {\em ISO/IEC/IEEE 29119-1:2013(E)}, pages 1--64, 2013.
 
+\bibitem{Buse10}
+R.~P. Buse and T.~Zimmermann.
+\newblock Analytics for software development.
+\newblock In {\em Proceedings of the FSE/SDP Workshop on Future of Software
+  Engineering Research (FoSER '10)}, New York, NY, USA, 2010. ACM.
+
+\bibitem{Cartaxo11}
+E.~G. Cartaxo, P.~D.~L. Machado, and F.~G.~O. Neto.
+\newblock On the use of a similarity function for test case selection in the
+  context of model-based testing.
+\newblock {\em Software Testing, Verification and Reliability}, 21(2):75--100,
+  2011.
+
 \bibitem{Emelie10}
 E.~Engstr{\"{o}}m, P.~Runeson, and M.~Skoglund.
 \newblock A systematic review on regression test selection techniques.
 \newblock {\em Information and Software Technology}, 52(1):14 — 30, 2010.
+
+\bibitem{Engstrom10b}
+E.~Engstr\"{o}m, P.~Runeson, and G.~Wikstrand.
+\newblock An empirical evaluation of regression testing based on fix-cache
+  recommendations.
+\newblock In {\em Proceedings of the 2010 3rd International Conference on
+  Software Testing, Verification and Validation (ICST'10}, Washington, DC, USA,
+  2010. IEEE Computer Society.
 
 \bibitem{Graves01}
 T.~L. Graves, M.~J. Harrold, J.-M. Kim, A.~Porter, and G.~Rothermel.
@@ -21,6 +42,12 @@ M.~J. Harrold.
 \newblock Testing evolving software.
 \newblock {\em Journal of Systems and Software}, 47(2-3):173--181, 1999.
 
+\bibitem{Kim07}
+S.~Kim, T.~Zimmermann, E.~J. Whitehead~Jr., and A.~Zeller.
+\newblock Predicting faults from cached history.
+\newblock In {\em Proceedings of the 29th International Conference on Software
+  Engineering (ICSE'07}, Washington, DC, USA, 2007. IEEE Computer Society.
+
 \bibitem{Orso04}
 A.~Orso, N.~Shi, and M.~J. Harrold.
 \newblock Scaling regression testing to large software systems.
@@ -31,6 +58,19 @@ G.~Rothermel and M.~J. Harrold.
 \newblock Analyzing regression test selection techniques.
 \newblock {\em IEEE Transactions on Software Engineering}, 22(8):529--551,
   1996.
+
+\bibitem{Whittaker09}
+J.~Whittaker.
+\newblock {\em Exploratory software testing: Tips, tricks, tours, and
+  techniques to guide test design}.
+\newblock Pearson Education, 2009.
+
+\bibitem{Wikstrand09}
+G.~Wikstrand, R.~Feldt, J.~Gorantla, W.~Zhe, and C.~White.
+\newblock Dynamic regression test selection based on a file cache: An
+  industrial evaluation.
+\newblock In {\em Proceedings of the 2009 International Conference on Software
+  Testing, Verification and Validation (ICST '09)}, 2009.
 
 \bibitem{Yoo12}
 S.~Yoo and M.~Harman.
@@ -45,5 +85,13 @@ L.~Yu, C.~Liu, and Y.~Zhang.
   techniques.
 \newblock In {\em Proceedings of the 2012 International Conference on Systems
   and Informatics (ICSAI'12)}, 2012.
+
+\bibitem{Zhang10}
+C.~Zhang, Z.~Chen, Z.~Zhao, S.~Yan, J.~Zhang, and B.~Xu.
+\newblock An improved regression test selection technique by clustering
+  execution profiles.
+\newblock In {\em Proceedings of the 2010 10th International Conference on
+  Quality Software (QSIC'10)}, Washington, DC, USA, 2010. IEEE Computer
+  Society.
 
 \end{thebibliography}

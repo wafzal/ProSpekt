@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.18)  11 DEC 2013 21:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.18)  21 JAN 2014 20:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -94,21 +94,24 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(./Untitled.aux)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+) (./Untitled.aux)
 \openout1 = `Untitled.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -201,47 +204,59 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<agile_incr.pdf, id=1, 432.61626pt x 161.60374pt>
-File: agile_incr.pdf Graphic file (type pdf)
- <use agile_incr.pdf>
-Package pdftex.def Info: agile_incr.pdf used on input line 23.
-(pdftex.def)             Requested size: 227.62202pt x 99.58421pt.
- [1
+) [1
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./agile
-_incr.pdf>] [2] (./Untitled.bbl
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+ [4] [5]
+[6] [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 124.
+
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 124.
+
+(./Untitled.bbl
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
-) [3] (./Untitled.aux) ) 
+ [8]) [9] (./Untitled.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2275 strings out of 493315
- 31948 string characters out of 6137903
- 96718 words of memory out of 5000000
- 5706 multiletter control sequences out of 15000+600000
- 9835 words of font info for 37 fonts, out of 8000000 for 9000
+ 2407 strings out of 493315
+ 33654 string characters out of 6137903
+ 97967 words of memory out of 5000000
+ 5824 multiletter control sequences out of 15000+600000
+ 14055 words of font info for 54 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,6n,26p,1597b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr17.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmti10.pfb>
-Output written on Untitled.pdf (3 pages, 93297 bytes).
+ 37i,8n,26p,1825b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
+xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Untitled.pdf (9 pages, 150497 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
